@@ -8,6 +8,19 @@ any of the challenges.
 ### Recommended Time: 2.5 hours
 ### Recommended Time at Prime Academy: Tier 2, Week 7
 
+### Topics
+#### jQuery
+- DOM Manipulation
+- Event Delegation
+- Business Logic
+
+#### AngularJS
+- Apps
+- Controllers
+- ng-repeat
+- ng-click
+- Inputs and Business Logic
+
 ## jQuery
 
 ### Challenge 1
