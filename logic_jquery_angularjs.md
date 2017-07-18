@@ -27,3 +27,12 @@ to the `Red Count`, making the paragraph tag for red read `Red Count: 1`.
 
 Below is a GIF of how the challenge should look and work once complete:
 ![Image of Challenge](https://media.giphy.com/media/l3DdCD2KZOg6sbkoU/giphy.gif)
+
+
+## AngularJS
+
+### Challenge 2
+Create an Application that has an input field and a button when the DOM loads. The user should be able to enter a value into the input field then click on the button. When the button is clicked, the entry should be stored in an array and the input field should be cleared out. Using `ng-repeat`, show a list of input entries along with a button that reads `delete`. When the user clicks on the delete button, the entry should be deleted from the list. 
+
+Below is a GIF of how the challenge should look and work once complete:
+![Image of Challenge](https://media.giphy.com/media/3ohz6CjVr4OdTlDTMc/giphy.gif)
