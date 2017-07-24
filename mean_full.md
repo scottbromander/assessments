@@ -7,8 +7,8 @@
 #### Node / Express
 - Server Setup 
 - Routing
-- Route Params
-- Route Body
+- Request Params
+- Request Body
 - CRUD to Database
 
 #### Mongo
@@ -24,6 +24,7 @@
 - ng-click
 - Inputs and Business Logic
 - HTTP requests
+- Basic Filtering
 
 ## Application
 In this challenge, you will be creating a full stack application that will be used for accepting Employee information.
@@ -39,6 +40,7 @@ to the server to get an updated employee list.
 application should get the most current employee list (now with the employee deleted removed from the list). 
 - Application needs to show the income total above the employee list. This should update correctly when an employee is 
 deleted or added. 
+- `Income` should always be formatted for USD currency.
 
 Image below reflects shows how the application should function:
 ![Gif showing application functionality](https://media.giphy.com/media/3o8dFAZJ0BPvjJHcis/giphy.gif)
