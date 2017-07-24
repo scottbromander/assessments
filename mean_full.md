@@ -41,6 +41,7 @@ application should get the most current employee list (now with the employee del
 - Application needs to show the income total above the employee list. This should update correctly when an employee is 
 deleted or added. 
 - `Income` should always be formatted for USD currency.
+- Styling will not be considered part of the challenge and should only be completed if all other tasks are completed. 
 
 Image below reflects shows how the application should function:
 ![Gif showing application functionality](https://media.giphy.com/media/3o8dFAZJ0BPvjJHcis/giphy.gif)
